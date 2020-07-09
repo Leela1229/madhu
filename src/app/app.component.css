@@ -1,0 +1,20 @@
+table {
+  width: 100%;
+}
+
+.addDate{
+  float: right;
+}
+
+mat-header-cell, mat-cell {
+  justify-content: center;
+}
+
+/* selected link */
+a {
+  color:#f44336;
+  cursor: pointer;
+}
+a:hover{
+  text-decoration: underline
+}
